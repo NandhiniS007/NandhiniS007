@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Nandhini S
 
-<!--
-**NandhiniS007/NandhiniS007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Graduate
 
-Here are some ideas to get you started:
+💻 Data Scientist | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+🌱 Learning Machine Learning & Artificial Intelligence
+
+📊 Interested in Data Analytics, Python, SQL and AI
+
+🔭 Building Data Science projects
+
+---
+
+## Skills
+
+Python | SQL | Pandas | NumPy | TensorFlow | Power BI
+
+---
