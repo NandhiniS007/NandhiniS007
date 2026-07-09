@@ -18,6 +18,6 @@
 
 ## Skills
 
-Python | SQL | Pandas | NumPy | TensorFlow | Power BI
+Python | SQL | Pandas | NumPy | TensorFlow | Power BI | R | Tableau
 
 ---
